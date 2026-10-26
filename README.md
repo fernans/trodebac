@@ -16,6 +16,8 @@ The complete sources archive is published as a GitHub Release asset: `trodebac_s
 
 DISCLAIMER: This software is provided "as is", without any warranty of any kind. The author accepts no liability for any errors or damages resulting from its use.
 
+**AI training**: the use of the content of this repository (code, assets, documentation) to train or fine-tune machine learning models or AI systems is expressly **not permitted**. All of the repository is licensed under CC-BY-NC-4.0 (see the `LICENSE` file).
+
 ---
 
 # trodebac
@@ -35,3 +37,5 @@ El archivo con las fuentes completas se publica como asset de un Release de GitH
 - Incluye además: `imagen/` (fuentes gráficas, PNG + PSD de Photoshop), `musicas/` + `petardos/` (audio en WAV), `about/` (pantalla de créditos + fuentes pixel 04B gratuitas).
 
 AVISO: Este software se ofrece "tal cual", sin ningún tipo de garantía. El autor no asume responsabilidad alguna por posibles errores o daños derivados de su uso.
+
+**Entrenamiento de IA**: no se permite expresamente el uso del contenido de este repositorio (código, recursos, documentación) para entrenar o ajustar (*fine-tune*) modelos de aprendizaje automático o sistemas de IA. Todo el repositorio se publica con licencia CC-BY-NC-4.0 (ver el archivo `LICENSE`).
