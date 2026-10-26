@@ -1,0 +1,8 @@
+# AIR publishing signing certificate (sensitive: signing key)
+iRita.p12
+*.p12
+
+# macOS junk
+.DS_Store
+._*
+.DS_Store?
